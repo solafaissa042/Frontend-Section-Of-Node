@@ -25,7 +25,7 @@ const App = () => {
 
         {/* protected */}
         <Route element={<PersistLogin />}>
-          <Route path="/" element={<RequireAuth allowedRoles={[2000]} />}>
+          <Route path="/" element={<RequireAuth allowedRoles={[5150]} />}>
             <Route path="/" element={<Home />} />
           </Route>
           <Route path="/" element={<RequireAuth allowedRoles={[1984]} />}>
