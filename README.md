@@ -52,3 +52,5 @@ Author
 Solafa Issa
 
 GitHub: https://github.com/solafaissa042
+
+live demo: https://frontsection.netlify.app/
