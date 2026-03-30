@@ -46,9 +46,9 @@ npm run dev
 
 ## 📸 Screenshots
 
-![Login Page](./screenshots/front-reg1.png)
-![Register Page](./screenshots/front-reg2.png)
-![Home Page](./screenshots/front-reg3.png)
+![Login Page](./public/assets//front-reg1.png)
+![Register Page](./public/assets//front-reg2.png)
+![Home Page](./public/assets//front-reg3.png)
 
 Author
 Solafa Issa
